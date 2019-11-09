@@ -206,3 +206,152 @@ ul li.active a{
   background-position: center;
   color: #4ecca3;
 }
+
+.pop1{
+  width: 470px;
+  height: 310px;
+  border: 2px solid gray;
+  position: absolute;
+  top: 133%;
+  left: 45%;
+  border_radius: 15px;
+  box-shadow: inset -4px -4px rgba(0,0,0,0.9);
+  background-color: #e5e5e5;
+  visibility: hidden;
+  opasity:0;
+}
+
+#part1:target.pop1{
+  visibility: visible;
+  opacity: 1;
+}
+
+#part2:target.pop1{
+  visibility: visible;
+  opacity: 1;
+}
+
+#part3:target.pop1{
+  visibility: visible;
+  opacity: 1;
+}
+
+#part4:target.pop1{
+  visibility: visible;
+  opacity: 1;
+}
+
+#part5:target.pop1{
+  visibility: visible;
+  opacity: 1;
+}
+
+#part6:target.pop1{
+  visibility: visible;
+  opacity: 1;
+}
+
+#part7:target.pop1{
+  visibility: visible;
+  opacity: 1;
+}
+
+#part8:target.pop1{
+  visibility: visible;
+  opacity: 1;
+}
+
+#part9:target.pop1{
+  visibility: visible;
+  opacity: 1;
+}
+
+#part10:target.pop1{
+  visibility: visible;
+  opacity: 1;
+}
+
+#part11:target.pop1{
+  visibility: visible;
+  opacity: 1;
+}
+
+#part12:target.pop1{
+  visibility: visible;
+  opacity: 1;
+}
+
+#part13:target.pop1{
+  visibility: visible;
+  opacity: 1;
+}
+
+#part14:target.pop1{
+  visibility: visible;
+  opacity: 1;
+}
+
+#part15:target.pop1{
+  visibility: visible;
+  opacity: 1;
+}
+.a:link,
+.a:visited{
+  text-decoration: none;
+}
+
+.close{
+  color: #363636;
+  font-size: 2em;
+  position: absolute;
+  top: .3em;
+  right: .5em;
+}
+
+a{
+  text-decoration: none;
+  font-size: 20px;
+  color: white;
+}
+
+.sen1{
+  color: #23374d;
+  text-align: left;
+  text-decoration: none;
+  position: absolute;
+  top: 5%;
+  left: 30%;
+}
+
+.photo{
+  position: absolute;
+  top: 20%;
+  left: 5%;
+}
+
+.sen2{
+  color: #23374d;
+  text-align: left;
+  text-decoration: none;
+  position: absolute;
+  top: 39%;
+  left: 60%;
+}
+
+.sen3{
+  color: #23374d;
+  text-align: left;
+  text-decoration: none;
+  position: absolute;
+  top: 45%;
+  left: 60%;
+}
+
+.sen4{
+  color: #23374d;
+  text-align: left;
+  text-decoration: none;
+  position: absolute;
+  top: 51%;
+  left: 60%;
+}
